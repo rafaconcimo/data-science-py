@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1NAv2WWtvftmT15sLiMV91rVqb6im9JjQ
 
 # **Calculadora de Combustível**
-
-Um estabelecimento está fazendo uma promoção do ETANOL e do DIESEL, está calculadora fornece autonomia para que os clientes saibam de antemão quanto irão pagar com e sem descontos.
 """
 
 qtd = float(input('Digite a quantidade de combustível a ser comprada (Litros): '))
